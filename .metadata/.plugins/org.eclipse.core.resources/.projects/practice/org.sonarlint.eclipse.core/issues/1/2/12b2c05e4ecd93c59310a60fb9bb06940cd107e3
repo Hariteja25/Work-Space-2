@@ -1,0 +1,9 @@
+
+d
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿHÎ’RMINORZ
+CODE_SMELL
+j
+java:S1197"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿHÏ’RMINORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¾¹ìHÐ’RMAJORZ
+CODE_SMELL

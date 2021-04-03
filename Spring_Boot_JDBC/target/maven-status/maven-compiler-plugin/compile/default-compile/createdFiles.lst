@@ -1,0 +1,4 @@
+dto\Product.class
+dao\vehicleDao$ArticleRowMapper.class
+dao\vehicleDao.class
+util\TestApp.class

@@ -1,0 +1,51 @@
+
+‹
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(šöˆôúÿÿÿÿHÁÍRMINORZ
+CODE_SMELL
+‹
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ğ’•øÿÿÿÿHÂÍRMINORZ
+CODE_SMELL
+‹
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(³¹º ûÿÿÿÿHÃÍRMINORZ
+CODE_SMELL
+Œ
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶™à.8ğÍšè†/HÄÍRMINORZ
+CODE_SMELL
+‹
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¹º ûÿÿÿÿHÅÍRMINORZ
+CODE_SMELL
+{
+java:S4488^"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(úâ”İHÆÍRMINORZ
+CODE_SMELL
+s
+java:S4684C"@Replace this persistent entity with a simple POJO or DTO object.(½Û»…HÈÍRCRITICALZVULNERABILITY
+_
+java:S1128"-Remove this unused import 'com.hari.TestApp'.(¶Ê×éşÿÿÿÿHÉÍRMINORZ
+CODE_SMELL
+u
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ƒ·×HÊÍRMINORZ
+CODE_SMELL
+
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒçªÎ8êú¤è†/HÌÍRMINORZ
+CODE_SMELL
+z
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ííÛôüÿÿÿÿHÍÍRMINORZ
+CODE_SMELL
+|
+java:S4488B"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ô é›üÿÿÿÿHÏÍRMINORZ
+CODE_SMELL
+x
+java:S4684T"@Replace this persistent entity with a simple POJO or DTO object.(Ìäæ¦ÿÿÿÿÿHÑÍRCRITICALZVULNERABILITY
+‹
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¹º ûÿÿÿÿHÒÍRMINORZ
+CODE_SMELL
+…
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òƒ’
+HÓÍRMINORZ
+CODE_SMELL
+„
+java:S1192-"HDefine a constant instead of duplicating this literal "Success" 3 times.(Õşúÿÿÿÿ8êú¤è†/HÔÍRCRITICALZ
+CODE_SMELL
+†
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú×ëåHØÍRMINORZ
+CODE_SMELL

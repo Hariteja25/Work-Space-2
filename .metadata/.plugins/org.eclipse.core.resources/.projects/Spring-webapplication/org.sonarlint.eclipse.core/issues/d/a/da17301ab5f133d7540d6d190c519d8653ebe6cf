@@ -1,0 +1,43 @@
+
+p
+java:S1854X">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿH†ÀRMAJORZ
+CODE_SMELL
+
+java:S1192"[Define a constant instead of duplicating this literal "Basic YWRtaW46cGFzc3dvcmQ=" 6 times.(ĞÌ¶³ùÿÿÿÿH‡ÀRCRITICALZ
+CODE_SMELL
+a
+java:S1481E"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿHÀRMINORZ
+CODE_SMELL
+a
+java:S1481t"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿHÀRMINORZ
+CODE_SMELL
+†
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ğßHÀRMINORZ
+CODE_SMELL
+´
+java:S2681I"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(—øò‰H‘ÀRMAJORZ
+CODE_SMELL
+l
+java:S2259F"FA "NullPointerException" could be thrown; "getBody()" can return null.(‚ë“›H’ÀRMAJORZBUG
+p
+java:S1854E">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿH•ÀRMAJORZ
+CODE_SMELL
+a
+java:S1481X"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿH–ÀRMINORZ
+CODE_SMELL
+q
+java:S2259)"FA "NullPointerException" could be thrown; "getBody()" can return null.(å†¥øÿÿÿÿH—ÀRMAJORZBUG
+w
+java:S3973G"GUse indentation to denote the code conditionally executed by this "if".(Àå³•HšÀRCRITICALZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°ÎHœÀRMINORZ
+CODE_SMELL
+‹
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¶•ùøÿÿÿÿHÀRMINORZ
+CODE_SMELL
+p
+java:S1854t">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+ƒ
+java:S1192"NDefine a constant instead of duplicating this literal "Authorization" 6 times.(ĞÌ¶³ùÿÿÿÿHŸÀRCRITICALZ
+CODE_SMELL

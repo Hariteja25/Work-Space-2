@@ -1,0 +1,9 @@
+
+m	java:S125O"<This block of commented-out lines of code should be removed.(ÆóµÁşÿÿÿÿH“£RMAJORZ
+CODE_SMELL
+¨
+java:S1130W"{Remove the declaration of thrown exception 'com.mythri.exception.UserException', as it cannot be thrown from method's body.(àãÇ‹H”£RMINORZ
+CODE_SMELL
+­
+java:S1130l"{Remove the declaration of thrown exception 'com.mythri.exception.UserException', as it cannot be thrown from method's body.(¸ëæÕùÿÿÿÿH•£RMINORZ
+CODE_SMELL

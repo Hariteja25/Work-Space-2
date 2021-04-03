@@ -1,0 +1,46 @@
+
+|
+java:S4488p"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µì¹ûúÿÿÿÿHžÅRMINORZ
+CODE_SMELL
+w
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ì˜ì·H ÅRMINORZ
+CODE_SMELL
+b
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óšH¢ÅRMINORZ
+CODE_SMELL
+v
+java:S1192'"FDefine a constant instead of duplicating this literal "user2" 4 times.(ÐŒÃ°H£ÅRCRITICALZ
+CODE_SMELL
+u
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÒÑ”´H¨ÅRMINORZ
+CODE_SMELL
+z
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ðçû„þÿÿÿÿHªÅRMINORZ
+CODE_SMELL
+~
+java:S11923"IDefine a constant instead of duplicating this literal "errorMsg" 3 times.(äµûòùÿÿÿÿH¬ÅRCRITICALZ
+CODE_SMELL
+y
+java:S1192'"IDefine a constant instead of duplicating this literal "userData" 6 times.(ÐŒÃ°H°ÅRCRITICALZ
+CODE_SMELL
+u
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ö¯¦“H·ÅRMINORZ
+CODE_SMELL
+u
+java:S4488i"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¼ú«îH¹ÅRMINORZ
+CODE_SMELL
+ƒ
+java:S1192 "NDefine a constant instead of duplicating this literal "showUserInput" 4 times.(Ÿë‰ŠøÿÿÿÿH»ÅRCRITICALZ
+CODE_SMELL
+|
+java:S4488Y"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÖÏ’ÓýÿÿÿÿHÀÅRMINORZ
+CODE_SMELL
+x
+java:S4488Š"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¥ÁóíHÂÅRMINORZ
+CODE_SMELL
+}
+java:S1192 "HDefine a constant instead of duplicating this literal "userObj" 4 times.(Ÿë‰ŠøÿÿÿÿHÄÅRCRITICALZ
+CODE_SMELL
+|
+java:S4488*"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(õ¨¨ˆýÿÿÿÿHÉÅRMINORZ
+CODE_SMELL

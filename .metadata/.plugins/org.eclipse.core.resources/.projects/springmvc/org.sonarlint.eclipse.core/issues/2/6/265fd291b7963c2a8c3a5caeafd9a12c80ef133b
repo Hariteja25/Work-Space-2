@@ -1,0 +1,6 @@
+
+‚%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(ˆäËğÿÿÿÿÿHÅ›RMINORZBUG
+]Web:TableWithoutCaptionCheck" Add a description to this table.(¿‰˜ÿÿÿÿÿHÆ›RMINORZBUG
+O	Web:S5256"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿHÇ›RMAJORZBUG
+\Web:BoldAndItalicTagsCheck"!Replace this <B> tag by <strong>.(“ÇŠ«øÿÿÿÿHÄ›RMINORZBUG
+j	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHÃ›RMAJORZBUG

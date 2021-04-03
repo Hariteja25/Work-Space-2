@@ -1,0 +1,13 @@
+package practice;
+
+public class Excp22 {
+	
+
+	public void process(int i, int j) {
+		
+		int res=i+j;
+		System.out.println(res);
+		
+	}
+
+}

@@ -1,0 +1,105 @@
+
+x
+java:S4684|"@Replace this persistent entity with a simple POJO or DTO object.(÷ž¿ìûÿÿÿÿHÔ¡RCRITICALZVULNERABILITY
+‚
+java:S1192½"LDefine a constant instead of duplicating this literal "messageInfo" 4 times.(ÌôÏÞúÿÿÿÿH¢¡RCRITICALZ
+CODE_SMELL
+w	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ü¸ñÏùÿÿÿÿHä¡RMAJORZ
+CODE_SMELL
+x
+java:S4488·"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¶¸™îHê¡RMINORZ
+CODE_SMELL
+š
+java:S1130 "lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(˜¹«‹Hã¡RMINORZ
+CODE_SMELL
+u
+java:S4488Ú"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(àªé&HÌ¡RMINORZ
+CODE_SMELL
+y
+java:S4684Ê"@Replace this persistent entity with a simple POJO or DTO object.(çöð¥ûÿÿÿÿHÝ¡RCRITICALZVULNERABILITY
+…
+java:S1192Ï"TDefine a constant instead of duplicating this literal "update successful!!" 3 times.(Îø×ÎHÅ¡RCRITICALZ
+CODE_SMELL
+s
+java:S4684D"@Replace this persistent entity with a simple POJO or DTO object.(Œ¢ŸÌHÀ¡RCRITICALZVULNERABILITY
+{
+java:S11928"FDefine a constant instead of duplicating this literal "login" 4 times.(¸ÊâÓüÿÿÿÿHå¡RCRITICALZ
+CODE_SMELL
+š
+java:S1130î"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(í…úîHÕ¡RMINORZ
+CODE_SMELL
+s	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(í…úîHö¡RMAJORZ
+CODE_SMELL
+x
+java:S4488›"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(­šž¹H ¡RMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ÄâºçýÿÿÿÿHŸ¡RMAJORZ
+CODE_SMELL
+y
+java:S4684À"@Replace this persistent entity with a simple POJO or DTO object.(ó„­¬ûÿÿÿÿHÎ¡RCRITICALZVULNERABILITY
+s	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(˜¹«‹HÓ¡RMAJORZ
+CODE_SMELL
+{
+java:S1192x"KDefine a constant instead of duplicating this literal "showAddEmp" 3 times.(õÓ¾óHÙ¡RCRITICALZ
+CODE_SMELL
+‚
+java:S1192Æ"LDefine a constant instead of duplicating this literal "showEditEmp" 4 times.(ŒˆÐ§üÿÿÿÿHš¡RCRITICALZ
+CODE_SMELL
+x
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(ÂéÓ„úÿÿÿÿHÉ¡RCRITICALZVULNERABILITY
+‘
+java:S1488L"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(µ¾úÝH½¡RMINORZ
+CODE_SMELL
+x
+java:S4488Ÿ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(÷õ¬‡H×¡RMINORZ
+CODE_SMELL
+s	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(ÅÄ¶Hî¡RMAJORZ
+CODE_SMELL
+|
+java:S4488{"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(äþ·ÖüÿÿÿÿHô¡RMINORZ
+CODE_SMELL
+‘
+java:S1488c"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(äåü¤H¾¡RMINORZ
+CODE_SMELL
+|
+java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃŽèïûÿÿÿÿHÁ¡RMINORZ
+CODE_SMELL
+y
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ížã®øÿÿÿÿHï¡RCRITICALZVULNERABILITY
+~
+java:S1192"IDefine a constant instead of duplicating this literal "command" 14 times.(å”ãßþÿÿÿÿH©¡RCRITICALZ
+CODE_SMELL
+š
+java:S1130¸"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÅÄ¶HÖ¡RMINORZ
+CODE_SMELL
+x
+java:S4488í"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(éå¢ðHÃ¡RMINORZ
+CODE_SMELL
+
+java:S1192®"KDefine a constant instead of duplicating this literal "deleteUser" 3 times.(œùˆæøÿÿÿÿHð¡RCRITICALZ
+CODE_SMELL
+}
+java:S4488€"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ÿ¹·ÿúÿÿÿÿHÊ¡RMINORZ
+CODE_SMELL
+
+java:S1192—"ODefine a constant instead of duplicating this literal "updatepassword" 4 times.(ÄðÇH¸¡RCRITICALZ
+CODE_SMELL
+}
+java:S4488É"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(£Â½ðûÿÿÿÿHÞ¡RMINORZ
+CODE_SMELL
+x
+java:S4488¿"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ü©éŸHì¡RMINORZ
+CODE_SMELL
+u
+java:S4488_"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(’ÛùHá¡RMINORZ
+CODE_SMELL
+~
+java:S1192"IDefine a constant instead of duplicating this literal "register" 3 times.(å”ãßþÿÿÿÿHÏ¡RCRITICALZ
+CODE_SMELL
+x	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(ôº¯ÿÿÿÿÿHà¡RMAJORZ
+CODE_SMELL
+w
+java:S4488""JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚÞ•H§¡RMINORZ
+CODE_SMELL
+x	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(ºù½žþÿÿÿÿH¿¡RMAJORZ
+CODE_SMELL

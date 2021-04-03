@@ -1,0 +1,22 @@
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+
+<bean id ="Controller" class= "constr.EmployeeController">
+<constructor-arg>
+<map >
+<entry key="id" value="20000" />
+<entry key="name" value="kumar" />
+<entry key="age" value="34" />
+</map >
+
+</constructor-arg>
+
+</bean>
+
+
+
+</beans>

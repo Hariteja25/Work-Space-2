@@ -1,0 +1,35 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+<bean id ="config1" class= "constrObjMap.Config">
+<constructor-arg value="test" />
+</bean>
+
+<bean id ="config2" class= "constrObjMap.Config">
+<constructor-arg value="dev" />
+</bean>
+
+<bean id ="config3" class= "constrObjMap.Config">
+<constructor-arg value="prod" />
+</bean>
+
+
+
+
+<bean id ="empc" class= "constrObjMap.EmployeeController">
+<constructor-arg>
+<map >
+<entry key="env1" value-ref="config1"/>
+<entry key="env2" value-ref="config2" />
+<entry key="env3" value-ref="config3" />
+</map >
+
+</constructor-arg>
+
+</bean>
+
+
+
+</beans>

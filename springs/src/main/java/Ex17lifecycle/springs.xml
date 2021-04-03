@@ -1,0 +1,19 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+
+	<bean id="pService" class="Ex17lifecycle.ProductService">
+	<constructor-arg value="Kumar"/> 
+	
+	</bean>
+	
+	<bean id="cService" class="Ex17lifecycle.CustomerService"></bean>
+	
+
+	
+
+	<bean id="bService" class="Ex17lifecycle.MyBeanPostProcessor" /> 
+	 
+</beans>

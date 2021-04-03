@@ -1,0 +1,20 @@
+
+r
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿHïÎRMINORZ
+CODE_SMELL
+v
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHòÎRMINORZ
+CODE_SMELL
+b
+java:S1128"0Remove this unused import 'com.hk.dto.Employee'.(§ÂåÉþÿÿÿÿHðÎRMINORZ
+CODE_SMELL
+ƒ
+java:S1128	"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅþÿÿÿÿHîÎRMINORZ
+CODE_SMELL
+€
+java:S1128
+"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ëHíÎRMINORZ
+CODE_SMELL
+W
+java:S1068"*Remove this unused "logger" private field.(ñ ìÑHñÎRMAJORZ
+CODE_SMELL

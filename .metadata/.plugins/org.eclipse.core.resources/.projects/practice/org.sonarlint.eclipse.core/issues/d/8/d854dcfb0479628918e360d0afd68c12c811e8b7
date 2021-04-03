@@ -1,0 +1,8 @@
+
+q	java:S106"9Replace this use of System.out or System.err by a logger.(£Ê§úÿÿÿÿ8¥×™Àù.HÔ’RMAJORZ
+CODE_SMELL
+y	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸäÆûHÒ’RMINORZ
+CODE_SMELL
+`
+java:S1144",Remove this unused private "process" method.(º¨¶´8¿š³Àù.Hæ’RMAJORZ
+CODE_SMELL

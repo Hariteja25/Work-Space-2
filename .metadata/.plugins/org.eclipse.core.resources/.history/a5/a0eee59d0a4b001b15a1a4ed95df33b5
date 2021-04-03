@@ -1,0 +1,18 @@
+package Assignment;
+
+public class Reflections {
+	public static void main(String[] args) throws ClassNotFoundException {
+		
+		
+		Class c1=Class.forName("Assignment.Student");
+		
+		System.out.println(c1.getModifiers());
+		
+Class c2=Class.forName("Assignment.Person");
+		
+		System.out.println(c2.getTypeName());
+		
+		
+	}
+
+}

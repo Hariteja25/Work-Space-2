@@ -1,0 +1,6 @@
+
+z	java:S116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õƒÓÏHşRMINORZ
+CODE_SMELL
+z
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŠÅ›øÿÿÿÿHÿRMINORZ
+CODE_SMELL

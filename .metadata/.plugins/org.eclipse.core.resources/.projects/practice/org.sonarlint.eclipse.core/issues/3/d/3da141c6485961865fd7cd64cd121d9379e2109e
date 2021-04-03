@@ -1,0 +1,9 @@
+
+e	java:S106"9Replace this use of System.out or System.err by a logger.(çÃáÊH¼’RMAJORZ
+CODE_SMELL
+j
+java:S1197	"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿHº’RMINORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ï”«þÿÿÿÿH»’RMINORZ
+CODE_SMELL

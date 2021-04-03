@@ -1,0 +1,64 @@
+
+}
+java:S1192."HDefine a constant instead of duplicating this literal "success" 3 times.(ï‘ı¤úÿÿÿÿHÎÃRCRITICALZ
+CODE_SMELL
+y
+java:S1128"GRemove this unused import 'ch.qos.logback.core.net.SyslogOutputStream'.(ŞïıİûÿÿÿÿHÒÃRMINORZ
+CODE_SMELL
+€
+java:S4488v"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(’·ãÕùÿÿÿÿHÓÃRMINORZ
+CODE_SMELL
+a
+java:S3740-"/Provide the parametrized type for this generic.(™ùÅ¥úÿÿÿÿHÕÃRMAJORZ
+CODE_SMELL
+z
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Â¾ø»ıÿÿÿÿHÖÃRMINORZ
+CODE_SMELL
+[
+java:S3740>"/Provide the parametrized type for this generic.(…¤‡}HØÃRMAJORZ
+CODE_SMELL
+\
+java:S3740`"/Provide the parametrized type for this generic.(¢ï²®HÙÃRMAJORZ
+CODE_SMELL
+[
+java:S3740g"/Provide the parametrized type for this generic.(íäĞBHÚÃRMAJORZ
+CODE_SMELL
+a
+java:S3740X"/Provide the parametrized type for this generic.(ıìÀÌÿÿÿÿÿHÛÃRMAJORZ
+CODE_SMELL
+a
+java:S3740]"/Provide the parametrized type for this generic.(²…ÍßûÿÿÿÿHÜÃRMAJORZ
+CODE_SMELL
+a
+java:S3740q"/Provide the parametrized type for this generic.(ÿ°•ÚûÿÿÿÿHİÃRMAJORZ
+CODE_SMELL
+a
+java:S37405"/Provide the parametrized type for this generic.(·ŠÀœúÿÿÿÿHŞÃRMAJORZ
+CODE_SMELL
+a
+java:S3740/"/Provide the parametrized type for this generic.(ò°ÁûÿÿÿÿHßÃRMAJORZ
+CODE_SMELL
+a
+java:S37409"/Provide the parametrized type for this generic.(ò°ÁûÿÿÿÿHàÃRMAJORZ
+CODE_SMELL
+|
+java:S4488e"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Í˜ºäşÿÿÿÿHáÃRMINORZ
+CODE_SMELL
+a
+java:S3740z"/Provide the parametrized type for this generic.(Ÿ‹÷İøÿÿÿÿHãÃRMAJORZ
+CODE_SMELL
+z
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ÉŠËıÿÿÿÿHäÃRMINORZ
+CODE_SMELL
+a
+java:S3740I"/Provide the parametrized type for this generic.(ß£³úùÿÿÿÿHæÃRMAJORZ
+CODE_SMELL
+a
+java:S3740@"/Provide the parametrized type for this generic.(»ËÎœüÿÿÿÿHçÃRMAJORZ
+CODE_SMELL
+t
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ƒƒàWHèÃRMINORZ
+CODE_SMELL
+z
+java:S4488m"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(’·ãÕùÿÿÿÿHêÃRMINORZ
+CODE_SMELL

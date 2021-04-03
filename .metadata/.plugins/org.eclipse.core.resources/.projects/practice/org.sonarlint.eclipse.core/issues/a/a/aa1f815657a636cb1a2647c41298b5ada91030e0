@@ -1,0 +1,9 @@
+
+]
+java:S2201"+The return value of "replace" must be used.(”ž˜Ûøÿÿÿÿ8´ÜÐ—ÿ.HÛºRMAJORZBUG
+q	java:S106"9Replace this use of System.out or System.err by a logger.(´Ì§¨ùÿÿÿÿ8´ÜÐ—ÿ.HÚºRMAJORZ
+CODE_SMELL
+q
+java:S1197
+"8Move the array designator from the variable to the type.(ñÀ Éúÿÿÿÿ8´ÜÐ—ÿ.HÙºRMINORZ
+CODE_SMELL

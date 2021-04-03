@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Z
+*src/main/java/Controller/MyController.java,9\2\92546a1d7b0476f625c7840b1aac56ee95752775
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+H
+src/main/webapp/home.jsp,6\8\6853166b9553bb500860233db274f93560c021c5
+^
+.src/main/java/Service/ProductResponseInfo.java,a\a\aa8c63945a67f31b77d333b78b06569e34cdcfd6
+\
+,src/main/java/Controller/ProductService.java,5\b\5bcdb4c6724f378ec21229fa70dbceb383f8f94d
+S
+#src/main/webapp/WEB-INF/springs.xml,0\8\08c19c3a157d1a01c5e573ac668f9f7fc9dfb9f9
+U
+%src/main/java/Controller/Product.java,c\3\c34c55ab9dbe877e7379dd47529f1b8ee34b40c1
+`
+0src/main/java/Controller/IntegrationService.java,d\a\da17301ab5f133d7540d6d190c519d8653ebe6cf

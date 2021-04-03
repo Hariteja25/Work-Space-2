@@ -1,0 +1,8 @@
+
+e	java:S106"9Replace this use of System.out or System.err by a logger.(é∏¶ﬁH≤èRMAJORZ
+CODE_SMELL
+U
+java:S1125"(Remove the literal "true" boolean value.(†˚ıÛH≥èRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¡ËH±èRMAJORZ
+CODE_SMELL

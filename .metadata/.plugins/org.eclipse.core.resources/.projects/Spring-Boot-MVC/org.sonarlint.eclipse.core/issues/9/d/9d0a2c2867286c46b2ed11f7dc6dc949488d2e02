@@ -1,0 +1,22 @@
+
+c
+java:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHèÅRINFOZ
+CODE_SMELL
+a
+java:S1172	"(Remove this unused method parameter "h".(ÃÏïüÿÿÿÿ8¿ƒ±Ùô.HéÅRMAJORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿHëÅRMINORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHìÅRINFOZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHíÅRINFOZ
+CODE_SMELL
+X
+java:S1168"+Return an empty collection instead of null.(¥¹ïHîÅRMAJORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHïÅRINFOZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+dao\ProductDAO$ArticleRowMapper.class
+util\ServiceException.class
+util\TestApp.class
+dto\Product.class
+service\ProductService.class
+dao\ProductDAO.class
+control\ProductController.class

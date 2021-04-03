@@ -1,0 +1,11 @@
+
+sWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿHœRMAJORZBUG
+j	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHRMAJORZBUG
+XWeb:TableWithoutCaptionCheck" Add a description to this table.(æÖ•«HRMINORZBUG
+[	Web:S1827"/Remove this deprecated "cellpadding" attribute.(æÖ•«HŸRMAJORZ
+CODE_SMELL
+| Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ÿ÷¸şıÿÿÿÿH RMAJORZBUG
+w Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ßÏàÉH¡RMAJORZBUG
+w Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(„Ã¼îH¢RMAJORZBUG
+w Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÿúáğH£RMAJORZBUG
+w Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ã»…æH¤RMAJORZBUG

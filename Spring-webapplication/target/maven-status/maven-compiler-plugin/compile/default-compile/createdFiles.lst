@@ -1,0 +1,5 @@
+Service\ProductResponseInfo.class
+Controller\IntegrationService.class
+Controller\MyController.class
+Controller\Product.class
+Controller\ProductService.class

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	
+	
+	<session-factory>
+		<!-- Database connection settings -->
+		<property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
+		<property name="connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
+		<property name="connection.username">dinesh</property>
+		<property name="connection.password">oracle</property>
+		<property name="connection.pool_size">1</property>
+
+       
+         <!-- hib config -->
+         <!-- SQL dialect specifies the database -->
+        <property name="show_sql">true</property>
+
+   <!-- Drop and re-create the database schema on start-up -->
+  
+  
+    <property name="hbm2ddl.auto">update</property>  
+  
+  
+  <!--  <mapping class="basics.Visitor" />
+   <mapping class="basics.Employee" />
+		
+		<mapping class="composition.PersonWithAddress" /> 
+		
+	<mapping class="oneToOne.EmployeeWithAddress" />
+		<mapping class="oneToOne.AddressDetails" />	 
+    
+    <mapping class="onetomany.Customer" />
+		<mapping class="onetomany.Accounts" />  
+
+ <mapping class="manytomany.Student" />
+		<mapping class="manytomany.Cource" /> 
+
+<mapping class="tableperhier.Person"/> 
+       <mapping class="tableperhier.EmployeeDetails"/> 
+	<mapping class="tableperhier.Student"/> 
+
+ <mapping class="tableperclass.Person1"/> 
+  <mapping class="tableperclass.Student1"/> 
+  <mapping class="tableperclass.Employee1"/> 
+  
+  
+  <mapping class="jointable.Person3"/> 
+        <mapping class="jointable.Employee3"/> 
+        <mapping class="jointable.Student3"/>   -->
+            
+
+  
+ <mapping class="dates.Info1"/>
+ <mapping class="dates.Info2"/>
+ 
+
+
+</session-factory>
+	
+		
+</hibernate-configuration>

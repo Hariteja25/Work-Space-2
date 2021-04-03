@@ -1,0 +1,9 @@
+1611887777988	Move 'spring.xml' to 'WEB-INF'
+1611888780698	Move 'home.jsp' to 'webapp'
+1611888928336	Rename package 'com.myapp.controller'
+1611889110064	Rename package 'Controller'
+1611898042175	Rename package 'com.myapp.Controller'
+1611898320392	Rename package 'com.myapp.MyService'
+1611899368770	Delete element
+1611946542769	Rename package 'controller'
+1611946630247	Move compilation unit

@@ -1,0 +1,19 @@
+package conditionalStatements;
+
+import java.lang.reflect.Field;
+
+public class Test {
+
+	public static void main(String[] args) throws Exception {
+		
+		Class<?> c=Class.forName("conditionalStatements.User");
+		Object obj=c.newInstance();
+		Field[] ageField=c.getDeclaredFields();
+		for(Object a:ageField) {
+			System.out.println(a.toString());
+		}
+		//ageField.setAccessible(true);
+		//ageField.set(obj, 30);
+		//System.out.println(ageField.get(obj));
+	}
+}

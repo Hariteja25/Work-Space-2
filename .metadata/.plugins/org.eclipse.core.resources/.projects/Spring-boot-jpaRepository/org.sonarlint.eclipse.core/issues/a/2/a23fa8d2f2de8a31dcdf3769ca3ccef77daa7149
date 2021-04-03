@@ -1,0 +1,23 @@
+
+z
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ííÛôüÿÿÿÿHÆRMINORZ
+CODE_SMELL
+{
+java:S4488-"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(…ã»±H’ÆRMINORZ
+CODE_SMELL
+‘
+java:S1488!"_Immediately return this expression instead of assigning it to the temporary variable "product".(¹Î İøÿÿÿÿHŠÆRMINORZ
+CODE_SMELL
+|
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ê¬Î­øÿÿÿÿH‹ÆRMINORZ
+CODE_SMELL
+z
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÿä°¹ıÿÿÿÿHÆRMINORZ
+CODE_SMELL
+m	java:S1254"<This block of commented-out lines of code should be removed.(§—âıÿÿÿÿH”ÆRMAJORZ
+CODE_SMELL
+†
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(óĞøÊH‘ÆRMINORZ
+CODE_SMELL
+z
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÚŞ¨ì8Ù×ƒ¡†/H¤ÆRCRITICALZVULNERABILITY

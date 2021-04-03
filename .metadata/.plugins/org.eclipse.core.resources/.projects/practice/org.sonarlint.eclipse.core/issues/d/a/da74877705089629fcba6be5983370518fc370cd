@@ -1,0 +1,28 @@
+
+’	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Ô»Ìşÿÿÿÿ8²æÕ½ù.H’RMINORZ
+CODE_SMELL
+j	java:S106."9Replace this use of System.out or System.err by a logger.(”ÒÕÑúÿÿÿÿH’RMAJORZ
+CODE_SMELL
+c
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿH‰’RMINORZ
+CODE_SMELL
+]
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHˆ’RMINORZ
+CODE_SMELL
+Z
+java:S1128	".Remove this unused import 'java.util.TreeSet'.(½îBHŒ’RMINORZ
+CODE_SMELL
+e	java:S106/"9Replace this use of System.out or System.err by a logger.(ûÕÈ¦Hñ’RMAJORZ
+CODE_SMELL
+^
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹HŠ’RMINORZ
+CODE_SMELL
+d
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿH‹’RMINORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8†´âÃù.Hò’RMINORZ
+CODE_SMELL
+`
+java:S1612/",Replace this lambda with a method reference.(ûÕÈ¦8†´âÃù.Hó’RMINORZ
+CODE_SMELL

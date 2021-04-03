@@ -1,0 +1,10 @@
+
+W
+java:S1068"*Remove this unused "logger" private field.(ñ ìÑHŞÍRMAJORZ
+CODE_SMELL
+˜
+java:S1128"dRemove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'.(¦–·Ë8… †/HßÍRMINORZ
+CODE_SMELL
+Š
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8òò¹‡/HàÍRMINORZ
+CODE_SMELL

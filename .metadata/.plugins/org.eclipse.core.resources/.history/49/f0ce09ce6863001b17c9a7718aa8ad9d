@@ -1,0 +1,28 @@
+2021-01-30 15:17:08,627 INFO rest.TestApp [main] Starting TestApp on DESKTOP-MMGB85T with PID 16184 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-01-30 15:17:08,638 DEBUG rest.TestApp [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-30 15:17:08,638 INFO rest.TestApp [main] No active profile set, falling back to default profiles: default
+2021-01-30 15:17:09,855 INFO rest.TestApp [main] Started TestApp in 1.534 seconds (JVM running for 2.503)
+2021-01-30 17:57:47,643 INFO rest.TestApp [main] Starting TestApp on DESKTOP-MMGB85T with PID 6452 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-01-30 17:57:47,643 DEBUG rest.TestApp [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-30 17:57:47,659 INFO rest.TestApp [main] No active profile set, falling back to default profiles: default
+2021-01-30 17:57:50,112 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8079 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8079 or configure this application to listen on another port.
+
+2021-01-30 18:05:00,260 INFO rest.TestApp [main] this is a info message
+2021-01-30 18:05:00,270 WARN rest.TestApp [main] this is a warn message
+2021-01-30 18:05:00,270 ERROR rest.TestApp [main] this is a error message
+2021-01-30 18:05:00,713 INFO rest.TestApp1 [main] Starting TestApp1 on DESKTOP-MMGB85T with PID 11916 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-01-30 18:05:00,714 DEBUG rest.TestApp1 [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-30 18:05:00,714 INFO rest.TestApp1 [main] No active profile set, falling back to default profiles: default
+2021-01-30 18:05:01,978 INFO rest.TestApp1 [main] Started TestApp1 in 1.584 seconds (JVM running for 2.591)

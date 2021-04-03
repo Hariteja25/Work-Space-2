@@ -1,0 +1,52 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="set1" class="setcollections.Employee">
+	<constructor-arg value="Hari"></constructor-arg>
+	<constructor-arg value="23"></constructor-arg>
+	
+	<constructor-arg value="323232"></constructor-arg></bean>
+	
+	
+	<bean id="set2" class="setcollections.Employee">
+	<constructor-arg value="Teja"></constructor-arg>
+	<constructor-arg value="24"></constructor-arg>
+	
+	<constructor-arg value="45454"></constructor-arg></bean>
+	
+	
+	<bean id="set3" class="setcollections.Employee">
+	<constructor-arg value="Dhanu"></constructor-arg>
+	<constructor-arg value="23"></constructor-arg>
+	
+	<constructor-arg value="67665"></constructor-arg></bean>	
+	
+	<bean id="set4" class="setcollections.Employee">
+	<constructor-arg value="Dhanu"></constructor-arg>
+	<constructor-arg value="23"></constructor-arg>
+	
+	<constructor-arg value="67665"></constructor-arg></bean>	
+
+
+
+
+
+
+<bean id="empc" class="setcollections.EmployeeController">
+<constructor-arg >
+<set>
+<ref bean="set1"/>
+<ref bean="set2"/>
+<ref bean="set3"/>
+<ref bean="set4"/>
+
+
+</set></constructor-arg>
+<constructor-arg value="Data"></constructor-arg>
+</bean>
+
+
+
+</beans>

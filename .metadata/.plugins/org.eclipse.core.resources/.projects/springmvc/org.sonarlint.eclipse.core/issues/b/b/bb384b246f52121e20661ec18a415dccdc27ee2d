@@ -1,0 +1,78 @@
+
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¸à¹ÍÿÿÿÿÿHİÄRMINORZ
+CODE_SMELL
+x
+java:S1192É"GDefine a constant instead of duplicating this literal "myData" 3 times.(êÕŞúHßÄRCRITICALZ
+CODE_SMELL
+u
+java:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(õº¶üHãÄRMINORZ
+CODE_SMELL
+
+java:S1192"JDefine a constant instead of duplicating this literal "hellopage" 3 times.(û×åàÿÿÿÿÿHåÄRCRITICALZ
+CODE_SMELL
+v
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÕŸ ¼HéÄRMINORZ
+CODE_SMELL
+{
+java:S4488û"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(şˆñ­ùÿÿÿÿHëÄRMINORZ
+CODE_SMELL
+v
+java:S4488î"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‚¯åÍHíÄRMINORZ
+CODE_SMELL
+u
+java:S4488¥"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¨ıAHïÄRMINORZ
+CODE_SMELL
+Ÿ
+java:S1130Ç"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ì•š‹ùÿÿÿÿHñÄRMINORZ
+CODE_SMELL
+{
+java:S4488˜"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Øè‰íùÿÿÿÿHòÄRMINORZ
+CODE_SMELL
+x	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(ì•š‹ùÿÿÿÿHôÄRMAJORZ
+CODE_SMELL
+~
+java:S1192Ú"HDefine a constant instead of duplicating this literal "message" 3 times.(Ò…‚‘úÿÿÿÿHõÄRCRITICALZ
+CODE_SMELL
+u
+java:S4488v"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ƒ¨‘åHùÄRMINORZ
+CODE_SMELL
+}
+java:S4488Ğ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃèïûÿÿÿÿHûÄRMINORZ
+CODE_SMELL
+w
+java:S4488<"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ì±º¯HıÄRMINORZ
+CODE_SMELL
+|
+java:S4488{"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ïÁè‚øÿÿÿÿHÿÄRMINORZ
+CODE_SMELL
+y
+java:S1192x"IDefine a constant instead of duplicating this literal "register" 6 times.(ÌÀ–HÅRCRITICALZ
+CODE_SMELL
+v
+java:S4488¸"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‡ÂĞÙHˆÅRMINORZ
+CODE_SMELL
+w
+java:S4488+"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Š¥HŠÅRMINORZ
+CODE_SMELL
+~
+java:S1192"IDefine a constant instead of duplicating this literal "userName" 3 times.(û×åàÿÿÿÿÿHŒÅRCRITICALZ
+CODE_SMELL
+}
+java:S1192É"LDefine a constant instead of duplicating this literal "readDetails" 3 times.(êÕŞúHÅRCRITICALZ
+CODE_SMELL
+‹
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿH”ÅRMINORZ
+CODE_SMELL
+w
+java:S1192"GDefine a constant instead of duplicating this literal "myName" 3 times.(¶¬³½H•ÅRCRITICALZ
+CODE_SMELL
+Œ
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿH™ÅRMINORZ
+CODE_SMELL
+v
+java:S4488Î"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( ÅÆHšÅRMINORZ
+CODE_SMELL
+v
+java:S4488á"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µ¾®HœÅRMINORZ
+CODE_SMELL

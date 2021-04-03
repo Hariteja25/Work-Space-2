@@ -1,0 +1,11 @@
+package practice;
+
+public class Excep11 {
+	
+public static void main(String[] args) {
+	
+	Excp22 e=new Excp22();
+	e.process(12,12);
+}
+
+}

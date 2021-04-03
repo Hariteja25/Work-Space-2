@@ -1,0 +1,8 @@
+com\myapp\UserController.class
+com\myapp\User.class
+com\myapp\UserService.class
+com\myapp\EmployeeException.class
+com\myapp\Employee.class
+com\myapp\MyController.class
+com\myapp\RegisterForm.class
+com\myapp\UserInfo.class

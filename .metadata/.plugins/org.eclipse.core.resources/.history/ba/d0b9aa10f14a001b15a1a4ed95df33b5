@@ -1,0 +1,19 @@
+package Assignment;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		List<Employee> list=new ArrayList<Employee>();
+		
+		
+		list.add(new Employee(1,"Hari",23,2323232));
+		list.add(new Employee(3,"Teja",25,4444323));
+		list.add(new Employee(2,"Arjun",24,333232));
+
+	}
+
+}

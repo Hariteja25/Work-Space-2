@@ -1,0 +1,33 @@
+package algorithm;
+
+public class findmissingnumber {
+
+	public static void main(String[] args) {
+	
+		
+		int ar[]= {1,4,6,9};
+		int[] def = new int[ar.length];
+		
+		for (int i : ar) 
+		{
+			def[i] = 1;
+		}
+		
+		
+		
+		
+		for (int i = 1; i < def.length-1; i++)
+		{ 
+			if (def[i] == 0) 
+			{
+				System.out.println(i); 
+			} 
+			
+		}
+
+
+		
+
+	}
+
+}

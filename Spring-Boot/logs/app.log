@@ -1,0 +1,32 @@
+2021-03-24 15:20:09,278 INFO com.hk.rest.TestApp [restartedMain] Starting TestApp on DESKTOP-MMGB85T with PID 13184 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-03-24 15:20:09,303 DEBUG com.hk.rest.TestApp [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2021-03-24 15:20:09,304 INFO com.hk.rest.TestApp [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-24 15:20:17,563 INFO com.hk.rest.TestApp [restartedMain] Started TestApp in 9.022 seconds (JVM running for 10.385)
+2021-03-24 16:08:05,306 INFO com.hk.rest.TestApp [restartedMain] Starting TestApp on DESKTOP-MMGB85T with PID 8636 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-03-24 16:08:05,316 DEBUG com.hk.rest.TestApp [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2021-03-24 16:08:05,316 INFO com.hk.rest.TestApp [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-24 16:08:11,774 INFO com.hk.rest.TestApp [restartedMain] Started TestApp in 7.095 seconds (JVM running for 8.127)
+2021-03-24 16:10:43,129 INFO com.hk.rest.TestApp [restartedMain] Starting TestApp on DESKTOP-MMGB85T with PID 14796 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-03-24 16:10:43,129 DEBUG com.hk.rest.TestApp [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2021-03-24 16:10:43,129 INFO com.hk.rest.TestApp [restartedMain] The following profiles are active: log
+2021-03-24 16:10:45,467 INFO com.hk.rest.TestApp [restartedMain] Started TestApp in 2.658 seconds (JVM running for 3.777)
+2021-03-24 16:16:36,251 INFO com.hk.rest.TestApp1 [main] this is a info message
+2021-03-24 16:16:36,266 WARN com.hk.rest.TestApp1 [main] this is a warn message
+2021-03-24 16:16:36,266 ERROR com.hk.rest.TestApp1 [main] this is a error message
+2021-03-24 16:16:36,467 INFO com.hk.rest.TestApp1 [restartedMain] this is a info message
+2021-03-24 16:16:36,467 WARN com.hk.rest.TestApp1 [restartedMain] this is a warn message
+2021-03-24 16:16:36,467 ERROR com.hk.rest.TestApp1 [restartedMain] this is a error message
+2021-03-24 16:16:36,836 INFO com.hk.rest.TestApp1 [restartedMain] Starting TestApp1 on DESKTOP-MMGB85T with PID 8468 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-03-24 16:16:36,836 DEBUG com.hk.rest.TestApp1 [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2021-03-24 16:16:36,836 INFO com.hk.rest.TestApp1 [restartedMain] The following profiles are active: log
+2021-03-24 16:16:40,060 INFO com.hk.rest.TestApp1 [restartedMain] Started TestApp1 in 3.574 seconds (JVM running for 4.706)
+2021-03-24 16:17:25,187 INFO com.hk.rest.TestApp1 [main] this is a info message
+2021-03-24 16:17:25,191 WARN com.hk.rest.TestApp1 [main] this is a warn message
+2021-03-24 16:17:25,191 ERROR com.hk.rest.TestApp1 [main] this is a error message
+2021-03-24 16:17:25,377 INFO com.hk.rest.TestApp1 [restartedMain] this is a info message
+2021-03-24 16:17:25,377 WARN com.hk.rest.TestApp1 [restartedMain] this is a warn message
+2021-03-24 16:17:25,378 ERROR com.hk.rest.TestApp1 [restartedMain] this is a error message
+2021-03-24 16:17:25,725 INFO com.hk.rest.TestApp1 [restartedMain] Starting TestApp1 on DESKTOP-MMGB85T with PID 14248 (E:\adv\Spring-Boot\target\classes started by Hariteja Kudamala in E:\adv\Spring-Boot)
+2021-03-24 16:17:25,726 DEBUG com.hk.rest.TestApp1 [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2021-03-24 16:17:25,726 INFO com.hk.rest.TestApp1 [restartedMain] The following profiles are active: log
+2021-03-24 16:17:28,959 INFO com.hk.rest.TestApp1 [restartedMain] Started TestApp1 in 3.575 seconds (JVM running for 4.713)

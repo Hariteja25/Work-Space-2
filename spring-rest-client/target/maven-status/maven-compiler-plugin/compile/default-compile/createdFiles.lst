@@ -1,0 +1,10 @@
+consumer\AppConfig.class
+consumer\ProductResponseInfo.class
+consumer\UpdateProduct.class
+consumer\GetProductById.class
+consumer\DeleteProductById.class
+consumer\GetAllProducts.class
+consumer\IntegrationService.class
+consumer\CreateProduct.class
+consumer\Product.class
+consumer\GetAllProducts1.class

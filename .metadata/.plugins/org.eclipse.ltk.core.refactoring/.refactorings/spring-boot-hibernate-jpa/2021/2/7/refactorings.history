@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SecurityConfig.java&apos; to &apos;Spring-Boot/src/main/java/rest&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-hibernate-jpa&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-Boot/src/main/java/rest&apos;&#x0D;&#x0A;- Original element: &apos;util.SecurityConfig.java&apos;" description="Copy compilation unit" destination="=Spring-Boot/src\/main\/java&lt;rest" element1="/src\/main\/java&lt;util{SecurityConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1613097774387" units="1" version="1.0"/>
+</session>

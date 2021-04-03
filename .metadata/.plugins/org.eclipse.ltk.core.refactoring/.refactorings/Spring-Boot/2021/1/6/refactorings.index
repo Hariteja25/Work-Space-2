@@ -1,0 +1,7 @@
+1612051208325	Move file
+1612053792690	Delete element
+1612058012832	Move 'application.properties' to 'resources'
+1612058020438	Delete element
+1612058208669	Move 'logback.xml' to 'resources'
+1612058297073	Delete element
+1612058560862	Move 'application.properties' to 'Spring-Boot'

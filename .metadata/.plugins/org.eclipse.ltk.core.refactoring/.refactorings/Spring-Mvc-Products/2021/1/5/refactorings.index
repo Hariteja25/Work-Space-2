@@ -1,0 +1,9 @@
+1611874303364	Rename type 'User'
+1611875325637	Rename package 'controller'
+1611875351981	Rename package 'dto'
+1611875367455	Rename package 'Service'
+1611875406049	Rename package 'util'
+1611880991261	Delete element
+1611884207117	Move 'addProduct.jsp' to 'webapp'
+1611884265683	Move 'addProduct.jsp' to 'views'
+1611884789575	Rename resource 'addProduct.jsp'
